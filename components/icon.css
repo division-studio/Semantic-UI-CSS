@@ -15,8 +15,8 @@
 
 @font-face {
   font-family: 'Icons';
-  src: url("../../public/fonts/icons.eot");
-  src: url("../../public/fonts/icons.eot?#iefix") format('embedded-opentype'), url("../../public/fonts/icons.woff2") format('woff2'), url("../../public/fonts/icons.woff") format('woff'), url("../../public/fonts/icons.ttf") format('truetype'), url("../../public/fonts/icons.svg#icons") format('svg');
+  src: url("../public/fonts/icons.eot");
+  src: url("../public/fonts/icons.eot?#iefix") format('embedded-opentype'), url("../public/fonts/icons.woff2") format('woff2'), url("../public/fonts/icons.woff") format('woff'), url("../public/fonts/icons.ttf") format('truetype'), url("../public/fonts/icons.svg#icons") format('svg');
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
